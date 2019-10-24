@@ -1,0 +1,18 @@
+img{
+    height: 150px;
+    width: 150px;
+}
+div{
+    text-align: center;
+    padding-top: 250px;
+}
+ul{
+    list-style: none;
+}
+li,a{
+    text-decoration: none;
+    float: left;
+}
+input {
+    border radius:4px;widows:200px;height:30px;
+}

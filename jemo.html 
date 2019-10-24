@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="jemo.css">
+</head>
+<body>
+    <div>Gmail image</div>
+    <CEnter>
+            <img src="go/google_logo.png" alt="">
+            <form>
+                    
+                    <input type="text"><br>
+                    <button class="google">google search</button>
+                    <button class="feeling">i am feeling lucky</button>
+                   
+             </form>
+                <P>
+                    Google offered in: <a href="">Luganda</a> <a href="">Kiswahili</a> <a href="">Ikinyarwanda</a> <a href="">luo</a> <a href="">Runyakitara</a>
+                </P>
+    </CEnter>
+
+
+
+
+
+
+
+
+
+
+
+    
+    <div>Advertising Business About search works Setting Terms</div>   
+    
+</body>
+</html>
